@@ -19,3 +19,4 @@ theo phần "Bài đọc thêm" do các trợ giảng AI hướng dẫn.
 7. Bug Management với GitHub Issues/Jira
 8. Kiểm thử với công cụ sử dụng LLM
 <img width="2538" height="1345" alt="image" src="https://github.com/user-attachments/assets/a6131d80-400b-4f59-b0b0-8f3c4cb6bb48" />
+<img width="2550" height="1341" alt="image" src="https://github.com/user-attachments/assets/a5cf9d97-1d76-4096-9cd7-2e6fc565b951" />
